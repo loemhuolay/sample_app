@@ -101,6 +101,10 @@ footer ul li {
   box-sizing:         border-box;
 }
 
+<<<<<<< HEAD
+=======
+/* miscellaneous */
+>>>>>>> sign-up
 
 .debug_dump {
   clear: both;
@@ -108,6 +112,7 @@ footer ul li {
   width: 100%;
   margin-top: 45px;
   @include box_sizing;
+<<<<<<< HEAD
 }
 
 /* sidebar */
@@ -173,4 +178,6 @@ input {
   .form-control {
     color: $state-danger-text;
   }
+=======
+>>>>>>> sign-up
 }

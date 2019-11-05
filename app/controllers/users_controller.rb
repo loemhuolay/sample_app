@@ -1,7 +1,14 @@
 class UsersController < ApplicationController
+<<<<<<< HEAD
   def show
     @user = User.find(params[:id])
     
+=======
+
+  def show
+    @user = User.find(params[:id])
+    debugger
+>>>>>>> sign-up
   end
 
   def new
